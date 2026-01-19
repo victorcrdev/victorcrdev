@@ -9,7 +9,7 @@
 
 ###
 
-<div align="left" style="display: flex; gap: 15px; flex-wrap: wrap;">
+<div align="left" style="display: flex; gap: 50px; flex-wrap: wrap;">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
   
