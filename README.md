@@ -10,6 +10,7 @@
 ###
 
 <div align="left">
+  <img padding ="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="javascript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="typescript logo"  />
