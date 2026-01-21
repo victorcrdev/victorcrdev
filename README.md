@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Meu nome é Victor Coelho, seja bem vindo ao meu perfil!</h2>
+<h2 align="left">Oi 👋! Meu nome é Victor Coelho, seja bem vindo ao meu perfil!</h2>
 
 ###
 
