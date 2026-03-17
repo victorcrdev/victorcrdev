@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **FullStack Developer**
 
-- 🌱 I’m currently learning **Java,Spring,JUnit5,**
+- 🌱 I’m currently learning **Java, Spring, JUnit5**
 
 - 📫 How to reach me **victorcoelho443@gmail.com**
 
